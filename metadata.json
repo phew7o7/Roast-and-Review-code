@@ -1,0 +1,6 @@
+{
+  "name": "Roast & Review Code",
+  "description": "An AI code reviewer with a funny roast mode and serious feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
