@@ -21,7 +21,7 @@ You will need a **Gemini API Key** to run this application. You can obtain one f
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/phew7o7/Roast-and-Review-code
    cd roast-review-code
    ```
 
